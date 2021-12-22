@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hotel
+comment1.params=name\ totroom\ floors
+comment1.target=Hotel(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hotel\r\n
+numComments=2
